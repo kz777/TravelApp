@@ -1,0 +1,1 @@
+This is the TravelApp, which can help people stay organized during both the planning and traveling phases. 
