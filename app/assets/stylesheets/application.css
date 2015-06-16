@@ -837,14 +837,4 @@ h2 a {
   clear: both;
 }
 
-@media (max-width: 960px) {
-  .tags .card h2 {
-    top: 5%;
-  }
 
-  .card a,
-  .destination a,
-  .destination .btn {
-    padding: 8px 15px;
-  }
-}
